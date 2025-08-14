@@ -20,10 +20,12 @@ h1{
   font-weight: 400;
   font-style: normal;
 }
-
 body{
   text-align: center
   ;}
   #basic p {
   font-weight: bold;
+  }
+  html{
+    font-size: 20px;
   }
